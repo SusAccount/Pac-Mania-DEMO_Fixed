@@ -7133,7 +7133,7 @@
 				[
 					[
 						"Hey!",
-						"BF",
+						"bfpacman",
 						""
 					]
 				]
@@ -7143,7 +7143,7 @@
 				[
 					[
 						"Hey!",
-						"BF",
+						"bfpacman",
 						""
 					]
 				]
@@ -7153,13 +7153,13 @@
 				[
 					[
 						"Hey!",
-						"BF",
+						"bfpacman",
 						""
 					]
 				]
 			]
 		],
-		"player3": null,
+		"player3": "bfpacman",
 		"song": "yelleath",
 		"validScore": true,
 		"needsVoices": true,
